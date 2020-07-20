@@ -37,7 +37,7 @@ This is Bongani Maila's developer profile/portfolio.
 
 
 ## Link
-https://responsive-developer-profile.vercel.app/
+https://vibrant-liskov-9a0d11.netlify.app/
 
 ## Contributors
 
