@@ -32,7 +32,7 @@ This is Bongani Maila's developer profile/portfolio.
 ## Screenshots of the pages
 
 ### Home Page
-![](https://github.com/BonganiMaila/Bearded-Gent-online-store-/blob/master/Images/index.png)
+![](https://github.com/BonganiMaila/Responsive-Developer-Profile/blob/master/assets/image/developer%20profile.png)
 
 
 
