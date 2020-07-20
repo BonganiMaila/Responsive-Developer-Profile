@@ -31,8 +31,11 @@ This is Bongani Maila's developer profile/portfolio.
 
 ## Screenshots of the pages
 
-### Home Page
-![](https://github.com/BonganiMaila/Responsive-Developer-Profile/blob/master/assets/image/developer%20profile.png)
+### Home Page Light Mode
+![](https://github.com/BonganiMaila/Responsive-Developer-Profile/blob/master/assets/image/light.png)
+
+### Home Page Dark Mode
+![](https://github.com/BonganiMaila/Responsive-Developer-Profile/blob/master/assets/image/dark.png)
 
 
 
