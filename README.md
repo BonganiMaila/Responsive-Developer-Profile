@@ -29,6 +29,12 @@ This is Bongani Maila's developer profile/portfolio.
 - Github
 - Git
 
+## Screenshots of the pages
+
+### Home Page
+![](https://github.com/BonganiMaila/Bearded-Gent-online-store-/blob/master/Images/index.png)
+
+
 
 ## Link
 https://responsive-developer-profile.vercel.app/
