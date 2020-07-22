@@ -7,10 +7,10 @@ This is Bongani Maila's developer profile/portfolio.
 - Home section
 - About section
 - Projects section
-- Contact me section
+- Contact section
 
 
-## Technologies Used
+## Technologies
 
 ## Technologies and Tools Used:
 
